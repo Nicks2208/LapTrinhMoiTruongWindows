@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\bin\Debug\net8.0\BaiTap.exe
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\bin\Debug\net8.0\BaiTap.deps.json
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\bin\Debug\net8.0\BaiTap.runtimeconfig.json
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\bin\Debug\net8.0\BaiTap.dll
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\bin\Debug\net8.0\BaiTap.pdb
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\BaiTap.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\BaiTap.AssemblyInfo.cs
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\BaiTap.dll
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\refint\BaiTap.dll
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\BaiTap.pdb
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\BaiTap.genruntimeconfig.cache
+C:\Users\acer\Desktop\Source Code\CodeC\BaiTap\BaiTap\obj\Debug\net8.0\ref\BaiTap.dll
